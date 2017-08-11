@@ -7,7 +7,14 @@ This is the second homework assignment for the Coding Bootcamp at UCSD. Design a
 * <= 960px (desktop)
 
 ## TO DO:
-
+* add viewport tag to all html files
+* edit styles for max-width of 980px
+* edit styles for m-w of 768px
+* edit styles for m-w of 640px
+	* make header static
+* validate all html and css files
+* deploy to GitHub pages
+* BONUS ITEM: animate hover effect on portfolio links
 
 ## Homework Specifications
 [Homework Specifications may be found on Coding Bootcamp repo](http://ucsd.bootcampcontent.com/UCSD-Coding-Bootcamp/08-07-2017-UCSD-San-Diego-Class-Repositoy-FSF-FT/blob/master/homework/02-css-bootstrap/02-Homework/Instructions/homework-instructions.md)
