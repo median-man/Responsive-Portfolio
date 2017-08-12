@@ -8,7 +8,10 @@ This is the second homework assignment for the Coding Bootcamp at UCSD. Design a
 
 ## TO DO:
 * edit style for m-w of 980 px
-	* use higher image resolution
+	* ~~sketch out widths on image~~
+	* ~~index.jpg header and content widths set~~
+	* portfolio image links stacked and centered
+	* check contact.jpg layout (i think its good but check)
 * edit styles for m-w of 768px
 * edit styles for m-w of 640px
 	* make header static
@@ -23,3 +26,6 @@ This is the second homework assignment for the Coding Bootcamp at UCSD. Design a
 ### 8/11/17
 1) Copied the hw solution files from Basic-Portfolio.
 2) Filled in personal content and added image files from hw solution.
+### 8/12/17
+3) Added higher resolution image for me.jpg. (600x600)
+4) Added css for < 980px for general classes.
