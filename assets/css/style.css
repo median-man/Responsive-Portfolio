@@ -281,15 +281,23 @@ input[type=submit] {
 }
 
 @media screen and (max-width: 980px) {
+    /* general */
     .container {
         max-width: 730px;
     }
     .main-section {
         max-width: 420px;
     }
+
+    /* about me page */
     .auth-image {
         max-width: none;
         width: 100%;
         padding-bottom: 25px;
+    }
+
+    /* portfolio page */
+    .work {
+        width: 100%;
     }
 }
