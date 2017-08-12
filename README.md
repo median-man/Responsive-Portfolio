@@ -2,13 +2,13 @@
 This is the second homework assignment for the Coding Bootcamp at UCSD. Design a mobile-responsive portfolio web site.
 
 ## Responsive Layout Break Points
-* Native width 640px (landscape smart phone)
+* <= 640px
 * <= 768px (tablet/small screens)
-* <= 960px (desktop)
+* <= 980px (desktop)
 
 ## TO DO:
-* add viewport tag to all html files
-* edit styles for max-width of 980px
+* edit style for m-w of 980 px
+	* use higher image resolution
 * edit styles for m-w of 768px
 * edit styles for m-w of 640px
 	* make header static
