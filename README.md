@@ -7,12 +7,21 @@ This is the second homework assignment for the Coding Bootcamp at UCSD. Design a
 * <= 980px (desktop)
 
 ## TO DO:
-* edit style for m-w of 980 px
+* ~~edit style for m-w of 980 px~~
 	* ~~sketch out widths on image~~
 	* ~~index.jpg header and content widths set~~
-	* portfolio image links stacked and centered
-	* check contact.jpg layout (i think its good but check)
-* edit styles for m-w of 768px
+	* ~~portfolio image links stacked and centered~~
+	* ~~check contact.jpg layout (i think its good but check)~~
+* ~~edit styles for m-w of 768px~~
+	* ~~main container below sidebar on all pages~~
+	* ~~text flows arround image in main container on about me~~
+	* ~~two columns of .work images on portfolio~~
+	* ~~.sidebar 100% of container width~~
+* ~~edit style for m-w of 700px for header/nav bar because my name is so long~~
+	* ~~name full width~~
+	* ~~nav full width~~
+	* ~~nav links distributed evenly~~
+	* ~~nav link text centered vertically~~
 * edit styles for m-w of 640px
 	* make header static
 * validate all html and css files
@@ -24,8 +33,11 @@ This is the second homework assignment for the Coding Bootcamp at UCSD. Design a
 
 ## Change Log
 ### 8/11/17
-1) Copied the hw solution files from Basic-Portfolio.
-2) Filled in personal content and added image files from hw solution.
+* Copied the hw solution files from Basic-Portfolio.
+* Filled in personal content and added image files from hw solution.
+
 ### 8/12/17
-3) Added higher resolution image for me.jpg. (600x600)
-4) Added css for < 980px for general classes.
+* Added higher resolution image for me.jpg. (600x600)
+* Added css for < 981px layout.
+* Added css for < 769px
+* Added css for < 701px (accomodate long name in #masthead)
