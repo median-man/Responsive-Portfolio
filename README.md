@@ -44,3 +44,4 @@ This is the second homework assignment for the Coding Bootcamp at UCSD. Design a
 ### 8/12/17
 * Added higher resolution image for me.jpg. (600x600)
 * Added css for responsive layout.
+* Fixed social media links on contact.html and portfolio.html.
