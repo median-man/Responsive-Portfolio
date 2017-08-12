@@ -22,11 +22,16 @@ This is the second homework assignment for the Coding Bootcamp at UCSD. Design a
 	* ~~nav full width~~
 	* ~~nav links distributed evenly~~
 	* ~~nav link text centered vertically~~
-* edit styles for m-w of 640px
-	* make header static
+* ~~edit styles for m-w of 640px~~
+	* ~~.auth-image full width of main section and text below~~
+	* ~~masthead static (scrolls/not sticky)~~
+	* ~~portfolio images one full width column inside main section~~
+* fix social media links on all pages
 * validate all html and css files
 * deploy to GitHub pages
-* BONUS ITEM: animate hover effect on portfolio links
+* BONUS ITEMS:
+	* animate hover effect on portfolio links
+	* sticky footer
 
 ## Homework Specifications
 [Homework Specifications may be found on Coding Bootcamp repo](http://ucsd.bootcampcontent.com/UCSD-Coding-Bootcamp/08-07-2017-UCSD-San-Diego-Class-Repositoy-FSF-FT/blob/master/homework/02-css-bootstrap/02-Homework/Instructions/homework-instructions.md)
@@ -38,6 +43,4 @@ This is the second homework assignment for the Coding Bootcamp at UCSD. Design a
 
 ### 8/12/17
 * Added higher resolution image for me.jpg. (600x600)
-* Added css for < 981px layout.
-* Added css for < 769px
-* Added css for < 701px (accomodate long name in #masthead)
+* Added css for responsive layout.
