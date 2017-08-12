@@ -26,7 +26,7 @@ This is the second homework assignment for the Coding Bootcamp at UCSD. Design a
 	* ~~.auth-image full width of main section and text below~~
 	* ~~masthead static (scrolls/not sticky)~~
 	* ~~portfolio images one full width column inside main section~~
-* fix social media links on all pages
+* ~~fix social media links on all pages~~
 * validate all html and css files
 * deploy to GitHub pages
 * BONUS ITEMS:
