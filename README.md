@@ -1,10 +1,23 @@
 # Responsive-Portfolio
 This is the second homework assignment for the Coding Bootcamp at UCSD. Design a mobile-responsive portfolio web site.
 
-## Responsive Layout Break Points
+## Homework Specifications
+[Homework Specifications may be found on Coding Bootcamp repo](http://ucsd.bootcampcontent.com/UCSD-Coding-Bootcamp/08-07-2017-UCSD-San-Diego-Class-Repositoy-FSF-FT/blob/master/homework/02-css-bootstrap/02-Homework/Instructions/homework-instructions.md)
+
+### Responsive Layout Break Points
 * <= 640px
 * <= 768px (tablet/small screens)
 * <= 980px (desktop)
+
+## Change Log
+### 8/11/17
+* Copied the hw solution files from Basic-Portfolio.
+* Filled in personal content and added image files from hw solution.
+
+### 8/12/17
+* Added higher resolution image for me.jpg. (600x600)
+* Added css for responsive layout.
+* Fixed social media links on contact.html and portfolio.html.
 
 ## TO DO:
 * ~~edit style for m-w of 980 px~~
@@ -27,21 +40,8 @@ This is the second homework assignment for the Coding Bootcamp at UCSD. Design a
 	* ~~masthead static (scrolls/not sticky)~~
 	* ~~portfolio images one full width column inside main section~~
 * ~~fix social media links on all pages~~
-* validate all html and css files
-* deploy to GitHub pages
+* ~~validate all html and css files~~
+* ~~deploy to GitHub pages~~
 * BONUS ITEMS:
 	* animate hover effect on portfolio links
 	* sticky footer
-
-## Homework Specifications
-[Homework Specifications may be found on Coding Bootcamp repo](http://ucsd.bootcampcontent.com/UCSD-Coding-Bootcamp/08-07-2017-UCSD-San-Diego-Class-Repositoy-FSF-FT/blob/master/homework/02-css-bootstrap/02-Homework/Instructions/homework-instructions.md)
-
-## Change Log
-### 8/11/17
-* Copied the hw solution files from Basic-Portfolio.
-* Filled in personal content and added image files from hw solution.
-
-### 8/12/17
-* Added higher resolution image for me.jpg. (600x600)
-* Added css for responsive layout.
-* Fixed social media links on contact.html and portfolio.html.
