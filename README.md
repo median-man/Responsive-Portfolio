@@ -18,6 +18,7 @@ This is the second homework assignment for the Coding Bootcamp at UCSD. Design a
 * Added higher resolution image for me.jpg. (600x600)
 * Added css for responsive layout.
 * Fixed social media links on contact.html and portfolio.html.
+* Fixed padding between main container and header on viewports widths from 641 to 700px.
 
 ## TO DO:
 * ~~edit style for m-w of 980 px~~
@@ -42,6 +43,7 @@ This is the second homework assignment for the Coding Bootcamp at UCSD. Design a
 * ~~fix social media links on all pages~~
 * ~~validate all html and css files~~
 * ~~deploy to GitHub pages~~
+* ~~fix no margin between main container and nav bar at 700px breakpoint~~
 * BONUS ITEMS:
 	* animate hover effect on portfolio links
 	* sticky footer
