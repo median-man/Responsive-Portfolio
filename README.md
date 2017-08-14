@@ -1,6 +1,8 @@
 # Responsive-Portfolio
 This is the second homework assignment for the Coding Bootcamp at UCSD. Design a mobile-responsive portfolio web site.
 
+View the current published version at [https://median-man.github.io/Responsive-Portfolio/](https://median-man.github.io/Responsive-Portfolio/).
+
 ## Homework Specifications
 [Homework Specifications may be found on Coding Bootcamp repo](http://ucsd.bootcampcontent.com/UCSD-Coding-Bootcamp/08-07-2017-UCSD-San-Diego-Class-Repositoy-FSF-FT/blob/master/homework/02-css-bootstrap/02-Homework/Instructions/homework-instructions.md)
 
